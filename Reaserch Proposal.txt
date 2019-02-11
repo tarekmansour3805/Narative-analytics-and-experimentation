@@ -1,0 +1,21 @@
+setting the stage:
+two identical datasets that have the same coulmns only one difference, the first dataset is intended to focus on the years of flying around the period
+from 1950 to 1980 while the other dataset is focused more on the later years of flying from 1980 to 2009.
+the tests that will be initiated will focus on the improvement of flying tochnologies over the two datasets, as it will show the number of incidents that
+have happened over the period from 1950 to 1980 contained by the number of fatalities. in order to insure proper scailing of the datasets the has to be a
+factor involved, it contains the complete understanding of the number of incidents over the years dependent on the weather conditions. as this test
+will show the improvment of aviation technology facing natural incendents.
+
+
+Rollout Plan:
+get all the data plots based on the principal of 3 columns only Fatalities, year and month. those three columns will be enough to get the intended data.
+as it cuts both data sets by year and group the fatalities by month.
+
+
+Success metric:
+use p and t value to conclude that both datasets are far apart in the number of fatalities per year.
+
+secondary metric:
+setting the cloud for the cumber of fatalities over the years.
+
+numbers of further information are posted on the notbook sheet.
